@@ -1,0 +1,5 @@
+I wanted to add grouped and/or overlapping Lasso support to PMA, without bugging
+the original author too much.  So I put it all in this repository along with my
+related code.
+
+--tim
