@@ -1,0 +1,10 @@
+Package: groupedPMA
+Type: Package
+Title: Grouped Penalized Multivariate Analysis -- additional penalties for PMA
+Version: 0.1
+Date: 2010-12-29
+Author: Daniela Witten and Rob Tibshirani and Sam Gross, edits by Tim Triche Jr.
+Maintainer: Tim Triche, Jr. <ttriche@usc.edu>
+Description: test implementation of overlapping group Lasso and StARS in PMA
+License: GPL (>= 2)
+Depends: R (>= 1.9.0), plyr
