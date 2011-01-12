@@ -88,7 +88,6 @@ and often given quite similar results for later components.
   sparse principal components and canonical correlation
   analysis. Submitted. <http://www-stat.stanford.edu/~dwitten>}
 \author{Daniela M. Witten and Robert Tibshirani}
-\seealso{\link{SPC.cv}, \link{PMD}, \link{PMD.cv}}
 \examples{
         
 # A simple simulated example

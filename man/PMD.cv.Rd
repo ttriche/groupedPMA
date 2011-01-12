@@ -102,7 +102,6 @@ given by $x-udv'$.
   sparse principal components and canonical correlation
   analysis. Submitted. <http://www-stat.stanford.edu/~dwitten>}
 \author{Daniela M. Witten and Robert Tibshirani}
-\seealso{\link{PMD},  \link{SPC}}
 \examples{
 
 # See examples in PMD help file

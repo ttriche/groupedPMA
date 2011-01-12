@@ -5,6 +5,6 @@
 ########################################################
 
 .onLoad <- function(lib,pkg){
-    library.dynam("PMA",pkg,lib)
+    library.dynam("groupedPMA",pkg,lib)
   }
   

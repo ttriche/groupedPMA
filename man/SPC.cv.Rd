@@ -77,7 +77,6 @@ of running SPC on the raw data $X$.
   sparse principal components and canonical correlation
   analysis. Submitted. <http://www-stat.stanford.edu/~dwitten>}
 \author{Daniela M. Witten and Robert Tibshirani}
-\seealso{\link{SPC}, \link{PMD}, \link{PMD.cv}}
 \examples{
 # A simple simulated example
 set.seed(1)

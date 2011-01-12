@@ -108,7 +108,6 @@ penalty on v when type is "ordered": $lambda(||v||_1 + sum_j |v_j - v_(j-1))$.
   sparse principal components and canonical correlation
   analysis. Submitted. <http://www-stat.stanford.edu/~dwitten>}
 \author{Daniela M. Witten and Robert Tibshirani}
-\seealso{\link{PMD.cv},  \link{SPC}}
 \examples{
 
 # Try PMD with L1 penalty on rows and columns: type="standard"

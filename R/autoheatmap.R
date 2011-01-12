@@ -40,8 +40,8 @@
 #
 autoheatmap <- function(object,design=NULL,covs=NULL,loci=NULL,samples=NULL,y=NULL,grp.x=NULL,grp.z=NULL,pen.x=0.3,pen.z=0.2,niter=100,method="ward",standardize=T,title=NULL,colorbar=NULL,locbar=NULL,parallel=F,plot=T,forced=NULL,annot.CpG=F,annot.promoter=F,x.dendro=T,z.dendro=F,rotate=F,colorcode.x=T,how='betas'){ 
 
-  require(PMA)
-  require(impute)
+  require(impute) # eh.
+  require(grplasso) 
   require(heatmap.plus)
   
   # must have design matrix if not an eSet
@@ -221,5 +221,3 @@ autoheatmap <- function(object,design=NULL,covs=NULL,loci=NULL,samples=NULL,y=NU
 
   return(CCA.result)
 }
-
-if(!exists('cluster.by')) source("cluster.by.R")

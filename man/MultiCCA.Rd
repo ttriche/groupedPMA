@@ -55,7 +55,6 @@ this is the parameter for the fused lasso penalty on wk. }
   sparse principal components and canonical correlation
   analysis. Submitted. <http://www-stat.stanford.edu/~dwitten>}
 \author{Daniela M. Witten and Robert Tibshirani}
-\seealso{\link{MultiCCA.permute},\link{CCA}, \link{CCA.permute}}
 \examples{
 # Generate 3 data sets so that first 25 features are correlated across
 # the data sets...

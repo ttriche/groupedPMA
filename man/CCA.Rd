@@ -135,7 +135,6 @@ penalty (promoting
   sparse principal components and canonical correlation
   analysis. Submitted. <http://www-stat.stanford.edu/~dwitten>}
 \author{Daniela M. Witten and Robert Tibshirani}
-\seealso{\link{PMD},\link{CCA.permute}}
 \examples{
 # first, do CCA with type="standard"
 # A simple simulated example

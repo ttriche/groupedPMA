@@ -1,5 +1,5 @@
 \name{PMA-internal}
-\title{Internal PMA functions}
+\title{InternalgroupedPMA functions}
 \alias{print.multicca}
 \alias{print.multiccaperm}
 \alias{plot.multiccaperm}
@@ -24,7 +24,7 @@
 \alias{cor.xl.Plot2b}
 \alias{cor.xl.Plot3a}
 \alias{cor.xl.Plot3b}
-\description{Internal PMA functions}
+\description{InternalgroupedPMA functions}
 \usage{
 plot.multiccaperm(x,...)
 print.multicca(x,...)
