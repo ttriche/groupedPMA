@@ -42,7 +42,7 @@ autoheatmap <- function(object,design=NULL,covs=NULL,loci=NULL,samples=NULL,y=NU
 
   require(impute) # eh.
   require(grplasso) 
-  require(flashclust)
+  require(flashClust)
   require(heatmap.plus)
   
   # must have design matrix if not an eSet
