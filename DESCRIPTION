@@ -7,4 +7,4 @@ Author: Daniela Witten and Rob Tibshirani and Sam Gross, edits by Tim Triche Jr.
 Maintainer: Tim Triche, Jr. <ttriche@usc.edu>
 Description: test implementation of overlapping group Lasso and StARS in PMA
 License: GPL (>= 2)
-Depends: R (>= 1.9.0), PMA, impute, grplasso, glmnet, huge
+Depends: R (>= 1.9.0), PMA, flashclust, impute, grplasso, glmnet, huge
